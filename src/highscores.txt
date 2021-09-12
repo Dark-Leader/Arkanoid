@@ -1,0 +1,1 @@
+"the highest score so far is: 0"
